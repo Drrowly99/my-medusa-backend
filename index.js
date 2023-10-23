@@ -1,4 +1,5 @@
 const express = require("express")
+// Main file
 const { GracefulShutdownServer } = require("medusa-core-utils")
 
 const loaders = require("@medusajs/medusa/dist/loaders/index").default
