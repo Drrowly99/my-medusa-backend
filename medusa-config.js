@@ -52,6 +52,8 @@ const plugins = [
       },
     },
   },
+
+
 ];
 
 const modules = {
